@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/baidu-libs-release.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ead5aef04a1873ea5c7690649ea88173/baidu-libs-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ead5aef04a1873ea5c7690649ea88173/baidu-libs-release/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ead5aef04a1873ea5c7690649ea88173/baidu-libs-release/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ead5aef04a1873ea5c7690649ea88173/baidu-libs-release/jars/libs/BaiduLBS_Android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

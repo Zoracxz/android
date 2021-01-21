@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/payment-alipay-release.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/60295124b8838d927d52a485f0680179/payment-alipay-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/60295124b8838d927d52a485f0680179/payment-alipay-release/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/60295124b8838d927d52a485f0680179/payment-alipay-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

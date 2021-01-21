@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/share-tencent-release.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0affea27823953ea67842eefeca72645/share-tencent-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0affea27823953ea67842eefeca72645/share-tencent-release/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0affea27823953ea67842eefeca72645/share-tencent-release/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0affea27823953ea67842eefeca72645/share-tencent-release/jars/libs/tx_weibo_sdk-httpclient-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0affea27823953ea67842eefeca72645/share-tencent-release/jars/libs/tx_weibo_sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/0affea27823953ea67842eefeca72645/share-tencent-release/jars/libs/tx_weibo_sdk_component.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

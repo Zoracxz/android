@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/Bluetooth-release.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ee76c5222e435244b962116836df4eba/Bluetooth-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ee76c5222e435244b962116836df4eba/Bluetooth-release/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/ee76c5222e435244b962116836df4eba/Bluetooth-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

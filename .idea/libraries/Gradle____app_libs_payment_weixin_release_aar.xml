@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/payment-weixin-release.aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/acebbb7a9af962592b67cdec6f5bb2e4/payment-weixin-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/acebbb7a9af962592b67cdec6f5bb2e4/payment-weixin-release/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/acebbb7a9af962592b67cdec6f5bb2e4/payment-weixin-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

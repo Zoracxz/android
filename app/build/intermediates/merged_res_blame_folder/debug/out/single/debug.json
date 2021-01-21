@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_push.png.flat",
+        "source": "D:\\Android\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xxhdpi\\push.png"
+    },
+    {
+        "merged": "D:\\Android\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "D:\\Android\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\Android\\HBuilder-Hello\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon.png.flat",
+        "source": "D:\\Android\\HBuilder-Hello\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]
